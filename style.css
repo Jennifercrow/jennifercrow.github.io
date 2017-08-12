@@ -43,6 +43,10 @@ img {
   column-count: 2;
 }
 
+.column-container {
+  display: block;
+}
+
 .center {
   text-align: center;
 }
@@ -58,13 +62,17 @@ img {
 
 .column-left {
   font-size: 14pt;
+  padding: 3em;
   width: 70%;
   float: left;
+  text-align: right;
 }
 
 .column-right {
+  padding: 3em;
   width: 30%;
   float: right;
+  text-align: left;
 }
 
 #card, #contact {
