@@ -29,6 +29,7 @@ body {
 
 .align-bottom {
   vertical-align: bottom;
+  height: 250px;
 }
 
 .two-column-list {
