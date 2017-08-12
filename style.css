@@ -39,6 +39,9 @@ img {
 #card, #contact {
   width: 34%;
   display: inline-block;
+  padding-left: 2em;
+  padding-right: 2em;
+  text-align: center;
 }
 
 h1, h2, h3, h4 {
