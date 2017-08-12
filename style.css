@@ -21,6 +21,19 @@ body {
   padding: 0;
 }
 
+img {
+  width: 100%;
+  height: 100%;
+}
+
+.left-img {
+  float: left;
+}
+
+.right-img {
+  float: right;
+}
+
 h1, h2, h3, h4 {
   margin: 0;
   padding: 0;
