@@ -55,14 +55,28 @@ img {
 }
 
 .center-column {
-   width: 34%;
+  width: 34%;
   display: inline-block;
+}
+
+.column-left {
+  width: 50%;
+  float: left;
+}
+
+.column-right {
+  width: 50%;
+  float: right;
 }
 
 #card, #contact {
   padding-left: 2em;
   padding-right: 2em;
   text-align: center;
+}
+
+#card {
+  margin-top: 10em;
 }
 
 h1, h2, h3, h4 {
