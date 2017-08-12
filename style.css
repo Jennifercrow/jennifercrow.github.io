@@ -20,8 +20,8 @@ img {
 }
 
 .header {
-  padding-top: 10em;
-  padding-bottom: 10em;
+  padding-top: 4em;
+  padding-bottom: 4em;
 }
 
 .footer {
@@ -31,7 +31,7 @@ img {
 }
 
 .footnote {
-  font-size: 10px;
+  font-size: 12px;
   font-style: italic;
 }
 
@@ -41,6 +41,10 @@ img {
 
 .two-column-list {
   column-count: 2;
+}
+
+.center {
+  text-align: center;
 }
 
 .center-list > h4 {
@@ -53,12 +57,13 @@ img {
 }
 
 .column-left {
-  width: 50%;
+  font-size: 14pt;
+  width: 70%;
   float: left;
 }
 
 .column-right {
-  width: 50%;
+  width: 30%;
   float: right;
 }
 
