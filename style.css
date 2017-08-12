@@ -5,7 +5,8 @@ body {
 }
 
 .container {
-  padding: 2vh 6vw; 
+  padding: 2vh 6vw;
+  border: 3px solid rgb(274, 173, 56);
 }
 
 .header {
