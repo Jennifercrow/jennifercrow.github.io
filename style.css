@@ -27,15 +27,18 @@ img {
 }
 
 .left-img {
-  width: 20%;
-  height: 20%;
+  width: 33%;
   float: left;
 }
 
 .right-img {
-  width: 20%;
-  height: 20%;
+  width: 33%;
   float: right;
+}
+
+#card, #contact {
+  width: 34%;
+  display: inline-block;
 }
 
 h1, h2, h3, h4 {
