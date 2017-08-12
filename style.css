@@ -27,10 +27,14 @@ img {
 }
 
 .left-img {
+  width: 20%;
+  height: 20%;
   float: left;
 }
 
 .right-img {
+  width: 20%;
+  height: 20%;
   float: right;
 }
 
