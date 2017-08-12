@@ -25,11 +25,12 @@ h1 {
 }
 
 h2 {
-  font-size: 20pt;
+  font-size: 18pt;
+  font-variant: smallcaps;
 }
 
 h3 {
-  font-size: 16pt;
+  font-size: 14pt;
   color: rgb(235, 128, 11);
   text-transform: uppercase;
 }
