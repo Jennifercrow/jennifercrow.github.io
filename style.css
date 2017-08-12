@@ -65,14 +65,12 @@ img {
   padding: 3em;
   width: 70%;
   float: left;
-  text-align: right;
 }
 
 .column-right {
   padding: 3em;
   width: 30%;
   float: right;
-  text-align: left;
 }
 
 #card, #contact {
