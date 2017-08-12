@@ -28,7 +28,7 @@ body {
 }
 
 .align-bottom {
-  valign: bottom;
+  vertical-align: bottom;
 }
 
 .two-column-list {
