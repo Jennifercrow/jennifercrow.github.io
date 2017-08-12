@@ -36,9 +36,12 @@ img {
   float: right;
 }
 
-#card, #contact {
-  width: 34%;
+.center-column {
+   width: 34%;
   display: inline-block;
+}
+
+#card, #contact {
   padding-left: 2em;
   padding-right: 2em;
   text-align: center;
