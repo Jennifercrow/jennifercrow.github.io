@@ -27,7 +27,7 @@ body {
   column-count: 2;
 }
 
-.center-list {
+.center-list > h4 {
   width: 50%;
 }
 
