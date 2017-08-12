@@ -1,8 +1,39 @@
 body {
-  background: rgb(28, 28, 28);
-  color: rgb(214, 214, 214);
+  background: rgb(232, 204, 156);
+  color: rgb(38, 9, 0);
+  margin: 0 auto;
+}
+
+.container {
+  padding: 2em 1em; 
+}
+
+.header {
+}
+
+.footer {
+}
+
+h1, h2, h3, h4 {
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
   font-size: 22pt;
+}
+
+h2 {
+}
+
+h3 {
+  color: rgb(235, 128, 11);
+  text-transform: uppercase;
+}
+
+h4 {
+}
+
+a {
+  color: rgb(115, 2, 2);
 }
