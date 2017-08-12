@@ -20,11 +20,13 @@ body {
 }
 
 .footer {
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
-.footer > p {
-  margin: 0 10px;
-  padding: 0;
+.footnote {
+  font-size: 10px;
+  font-style: italic;
 }
 
 .align-bottom {
