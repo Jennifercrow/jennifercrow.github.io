@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-  padding: 2em 1em; 
+  padding: 2vh 6vw; 
 }
 
 .header {
@@ -20,18 +20,23 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  font-size: 22pt;
+  font-size: 26pt;
+  font-family: 'Yellowtail', cursive;
 }
 
 h2 {
+  font-size: 20pt;
 }
 
 h3 {
+  font-size: 16pt;
   color: rgb(235, 128, 11);
   text-transform: uppercase;
 }
 
 h4 {
+  font-size: 12pt;
+  font-weight: bold;
 }
 
 a {
