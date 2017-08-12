@@ -47,4 +47,9 @@ h4 {
 
 a {
   color: rgb(115, 2, 2);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
