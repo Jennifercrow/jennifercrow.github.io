@@ -35,7 +35,7 @@ img {
 }
 
 .footnote {
-  font-size: 12px;
+  font-size: 13px;
   font-style: italic;
 }
 
@@ -84,6 +84,14 @@ img {
   padding-right: 2em;
   text-align: center;
   margin-top: 10em;
+}
+
+#card {
+  margin-top: 11em;
+}
+
+#contact {
+  margin-top: 2em;
 }
 
 h1, h2, h3, h4 {
