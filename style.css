@@ -69,6 +69,7 @@ img {
   padding: 3em;
   width: 60%;
   float: left;
+	border: 1px solid red;
 }
 
 .column-left > h4 {
@@ -77,8 +78,9 @@ img {
 
 .column-right {
   padding: 3em;
-  width: 32%;
+  width: 25%;
   float: right;
+	border: 1px solid green;
 }
 
 #card, #contact {
