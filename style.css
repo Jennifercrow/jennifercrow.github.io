@@ -67,7 +67,7 @@ img {
 .column-left {
   font-size: 14pt;
   padding: 3em;
-  width: 70%;
+  width: 65%;
   float: left;
 }
 
@@ -77,7 +77,7 @@ img {
 
 .column-right {
   padding: 3em;
-  width: 30%;
+  width: 32%;
   float: right;
 }
 
@@ -85,9 +85,6 @@ img {
   padding-left: 2em;
   padding-right: 2em;
   text-align: center;
-}
-
-#card {
   margin-top: 10em;
 }
 
