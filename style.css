@@ -68,7 +68,6 @@ img {
   font-size: 14pt;
   width: 65%;
   float: left;
-	border: 1px solid red;
 }
 
 .column-left > h4 {
@@ -78,7 +77,6 @@ img {
 .column-right {
   width: 25%;
   float: right;
-	border: 1px solid green;
 }
 
 #card, #contact {
