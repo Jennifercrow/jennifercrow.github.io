@@ -24,7 +24,7 @@ ul li {
 }
 
 .padding {
-  height: 37vh;
+  height: 22vh;
 }
 
 .header {
@@ -276,7 +276,7 @@ a:hover {
   }
 
   .padding {
-    height: 5vmax;
+    height: 6vmax;
   }
 
   #contact {
